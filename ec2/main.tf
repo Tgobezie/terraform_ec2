@@ -12,7 +12,7 @@ resource "aws_instance" "myinstance2" {
 	subnet_id = "subnet-17b00e38"
 	security_groups = ["sg-d107de9a"]
 
-	key_name = "teekey102318"
+	key_name = "PUT-KEY-NAME-HERE"
 	#key_name = "${var.key}"
 
   root_block_device {
