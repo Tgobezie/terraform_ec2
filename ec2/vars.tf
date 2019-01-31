@@ -21,7 +21,7 @@ locals {
 	BillingCode = "None"
 	Environment = "DV"
 	Portfolio = "None"
-	ResourcePOC = "teegobezi@gmail.com"
+	ResourcePOC = ""
 	ResourceType = "chef workstation"
 	platform = "CentOS"
 	}
